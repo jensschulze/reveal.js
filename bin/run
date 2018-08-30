@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker run -it --rm -v "$PWD"/index.html:/usr/src/app/index.html:cached -p 8000:8000 reveal:latest
+docker run -it --rm -v "$PWD"/index.html:/usr/src/app/index.html:cached -p 8000:8000 jensschulze/reveal:latest

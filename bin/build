@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t reveal:latest .
+docker build -t jensschulze/reveal:latest .
